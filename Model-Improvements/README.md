@@ -1,4 +1,4 @@
-# Model improvements � Lesson overview
+# Model improvements - Lesson overview
 
 - Model improvements are crucial in data science for enhancing the **accuracy**, **efficiency**, and **generalisability** of predictive
 models. These advancements enable practitioners to tackle **complex challenges** in classification, dealing with **imbalanced
